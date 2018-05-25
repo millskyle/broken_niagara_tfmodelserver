@@ -1,5 +1,14 @@
 ## Niagara tensorflow_model_server seg-fault example
 
+### Run the example:
+
+```bash
+run_example.sh
+```
+
+
+### or manually:
+
 1. Run the server:
 ```bash
 bash ./server/run_server.sh
