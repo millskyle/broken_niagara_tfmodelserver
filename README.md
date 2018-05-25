@@ -15,7 +15,7 @@ bash ./server/run_server.sh
 ```
 It will appear successful.
 
-2. In another terminal (on the same login node), send data to the server by running the `test.py`
+2. In another terminal on the same login node (communication is via `localhost`), send data to the server by running the `test.py`
 ```bash
 python ./client/test.py
 ```
