@@ -45,5 +45,5 @@ A successful run should result in the client printing a bunch of floating point 
 -0.000143125653267
 ...
 ```
-
+and obviously no segmentation fault from the server.
 
