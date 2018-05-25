@@ -3,7 +3,7 @@
 ### Run the example:
 
 ```bash
-run_example.sh
+bash run_example.sh
 ```
 
 
